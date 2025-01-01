@@ -1,5 +1,5 @@
 # Mostafa El-Badawy's Portfolio
-(firefox_pbPWSPo3MB.png)
+![Portfolio Image](firefox_pbPWSPo3MB.png)
 Welcome to my personal portfolio website built with Django! This project showcases my skills, education, experience, and interests as I continue to learn and grow in web development, ethical hacking, and cybersecurity.
 Overview
 
